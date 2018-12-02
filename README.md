@@ -1,6 +1,11 @@
-# inferenceattack
 
-Preventing Inference Attack
+Team Members(Group 22) :
+
+Jugal Shah |
+Sanhith Reddy |
+Simranjit Kaur
+
+Inference Attack on Location Data
 
 References :
 
@@ -12,12 +17,6 @@ Preventing Location-based Inference Attack in Location Based Services
 Agility maneuvers to mitigate inference attacks on sensed location data
              by  Giuseppe Petracca , Lisa M. Marvel ,Ananthram Swami ,Trent Jaeger
 
-
-Team Members(Group 22) :
-
-Jugal Shah |
-Sanhith Reddy |
-Simranjit Kaur
 
 
 
