@@ -15,8 +15,8 @@ Agility maneuvers to mitigate inference attacks on sensed location data
 
 Team Members(Group 22) :
 
-Jugal Shah
-Sanhith Reddy
+Jugal Shah |
+Sanhith Reddy |
 Simranjit Kaur
 
 
